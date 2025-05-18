@@ -37,7 +37,7 @@ var contactString = `
         </div> 
     </a> 
 </div>`;
-var resumeString = "<img src='images/resume_thumbnail.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>saurabh_resume.pdf</label></div><a href='assets/saurabh_resume.pdf' download='saurabh_resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
+var resumeString = "<img src='images/resume_thumbnail.png' class='resumeThumbnail'><div class='downloadSpace'><div class='pdfname'><img src='images/pdf.png'><label>Saurabh_resume.pdf</label></div><a href='assets/Saurabh_resume.pdf' download='Saurabh_resume.pdf'><img class='download' src='images/downloadIcon.svg'></a></div>";
 
 var addressString = `<div class='mapview'><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14017.273220409675!2d77.4958458!3d28.7526051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf47204fb9241%3A0xd11ed4123c7691fe!2sKIET%20GROUP%20OF%20INSTITUTIONS!5e0!3m2!1sen!2sin!4v1715937980000!5m2!1sen!2sin' class='map' width='100%' height='300' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe></div><label class='add'><address>KIET Group of Institutions<br>Ghaziabad<br>Uttar Pradesh, INDIA 201206</address></label>`;
 
